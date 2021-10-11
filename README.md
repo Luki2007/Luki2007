@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Luki2007
+- 👀 I’m interested in HTML
+- 🌱 I’m currently learning HTML, Css, js and Python
+- 📫 How to reach me?
+  --> Discord: Lukas2007#2007
